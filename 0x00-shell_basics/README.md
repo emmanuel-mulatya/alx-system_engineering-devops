@@ -6,3 +6,6 @@ This script is used to list the contents of the current directory
 
 2-bring_me_home
 This script brings you to the home directory
+
+3-listfiles
+This script lists all files in long format
