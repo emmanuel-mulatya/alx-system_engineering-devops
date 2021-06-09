@@ -48,3 +48,9 @@ moves all filles starting with uppercase leeters to /tmp/u
 
 100-clean_emacs
 deletes all files ending with ~
+
+102-tree
+creates directory with sub directories
+
+103-commas
+lists all files separated by commas
