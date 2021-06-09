@@ -9,3 +9,6 @@ This script brings you to the home directory
 
 3-listfiles
 This script lists all files in long format
+
+4-listmorefiles
+This script is for listing all filles including hidden ones in long format
