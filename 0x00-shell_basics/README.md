@@ -1,4 +1,8 @@
-0-current_working_direcory:
+0-current_working_direcory
 This script is used to print the current working directory
-1-listit:
+
+1-listit
 This script is used to list the contents of the current directory
+
+2-bring_me_home
+This script brings you to the home directory
