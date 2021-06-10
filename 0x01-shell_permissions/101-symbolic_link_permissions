@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --no-derefernce betty:holberton ./_hello
+chown e betty:holberton --from=root:root  _hello
