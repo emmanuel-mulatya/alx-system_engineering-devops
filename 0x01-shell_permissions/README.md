@@ -43,3 +43,16 @@ creates a directory called dir_holberton with permissions 751
 
 13-change_group
 changes the group owner to holberton for the file hello
+
+100-change_owner_and_group
+changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+
+101-symbolic_link_permissions
+ changes the owner and the group owner of _hello to betty and holbertonand also _hello is a link
+
+102-if_only
+changes the owner of the file hello to betty only if it is owned by the user guillaume.
+
+103-Star_Wars
+script that will play the StarWars IV episode in the terminal.
+.
