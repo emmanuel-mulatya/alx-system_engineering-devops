@@ -1,2 +1,2 @@
 #!/bin/bash
-changegrp(){chgrp -R holberton .} changeowner(){chown -R betty .} cat <<- _EOF_ $(changegrp) $(changeowner) _EOF_
+function changegrp(){chgrp -R holberton .} function changeowner(){chown -R betty .} cat <<- _EOF_ $(changegrp) $(changeowner) _EOF_
