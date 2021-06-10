@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hP betty:holberton ./_hello
+chown --no-derefernce betty:holberton ./_hello
