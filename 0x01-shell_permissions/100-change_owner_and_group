@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -type f -exec chown  betty -exec chgrp holberton {}+
+ chown -R betty .
