@@ -1,2 +1,2 @@
 #!/bin/bash
-chown e betty:holberton --from=root:root  _hello
+chown -h betty:holberton  _hello
