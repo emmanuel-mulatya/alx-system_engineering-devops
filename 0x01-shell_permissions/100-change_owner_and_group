@@ -1,2 +1,2 @@
 #!/bin/bash
-(chown -R betty) + (chgrp -R holberto)n .
+changegrp(){chgrp -R holberton .} changeowner(){chown -R betty .} $(changegrp) $(changeowner)
