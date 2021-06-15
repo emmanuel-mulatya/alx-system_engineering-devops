@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -name "*.gif" -print "%f" | tr -d .gif | Lc_ALL-C sort -f
